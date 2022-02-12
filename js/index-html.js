@@ -44,7 +44,7 @@ function popupMenu() {
     $(".appMenu").hide();
     $(".appMenu").css("z-index", "99992");
   }
-  appMenuVisible=!burgerMenuVisible;
+  appMenuVisible=!appMenuVisible;
 } 
 
 function hideMenu() {
