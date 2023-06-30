@@ -1,2 +1,2 @@
-# linguist.email
+# LinguaIM
 Every linguist, an email
